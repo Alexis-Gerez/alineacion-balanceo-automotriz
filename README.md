@@ -121,3 +121,7 @@ Docente técnico en automotores y electrónica aplicada
 Licenciado en Relaciones del Trabajo
 
 Este material forma parte del portfolio profesional orientado a formación técnica automotriz y mejora de prácticas en talleres.
+
+Bibliografía
+
+El contenido del curso se basa en material técnico especializado incluido en la carpeta `bibliografia`, utilizado como base conceptual para el desarrollo de presentaciones, infografías y evaluaciones.
